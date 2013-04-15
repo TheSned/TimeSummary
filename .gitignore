@@ -80,6 +80,9 @@ ipch/
 # ReSharper is a .NET coding add-in
 _ReSharper*
 
+# NCrunch Unit Test runner configuration files
+*.ncrunch*
+
 # Installshield output folder
 [Ee]xpress
 
