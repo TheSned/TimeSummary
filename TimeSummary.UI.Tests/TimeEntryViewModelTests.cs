@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TimeSummary.UI.WPF.ViewModels;
+using TimeSummary.UI.WPF;
 
 namespace TimeSummary.UI.Tests
 {
